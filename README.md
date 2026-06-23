@@ -132,7 +132,7 @@ Employee-Attrition-Analysis/
 Installation:
 
 Clone the repository:
-git clone https://github.com/your-username/Employee-Attrition-Analysis.git
+git clone https://github.com/vaishnavi126G/HR-Employee-Attrition-Analysis.git
 Install dependencies:
 pip install pandas numpy matplotlib seaborn
 
